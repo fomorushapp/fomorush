@@ -46,6 +46,9 @@ FomoRush is a blockchain-based game where participants collectively influence th
 ├── contracts/         # FunC smart contracts
 │   ├── stake/         # Staking contracts
 │   └── tokens/        # Token contracts
+├── docs/              # Project documentation
+│   ├── FomoRush_Tokenomics.pdf
+│   └── FomoRush_Whitepaper.pdf
 ```
 
 ## 🔧 Configuration
